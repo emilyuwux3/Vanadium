@@ -136,7 +136,7 @@ ul {
 .bar {
   margin-top: 6px;
   margin-bottom: 6px;
-  border: 2px solid var(lightgreen);
+  border: 2px solid var(--outlines);
   color: var(--textcolor);
   display: flex;
   height: 40px;
