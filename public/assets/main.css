@@ -52,7 +52,7 @@ a:link {
 }
 
 .navbar a {
-  color: var(lightgreen);
+  color: var(--colorname);
   display: block;
   float: left;
   font-size: 17px;
